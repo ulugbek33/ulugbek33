@@ -1,32 +1,52 @@
 ## Hi there 👋
-Hello, I am a Java Backend Developer!
-💻 I am currently studying Java backend at PDP Academy.
+# 👋 Hello, I am a Java Backend Developer!
 
-📚 I have just completed the course and have experience working with Spring Framework, Spring Boot, Telegram bots, REST API, PostgreSQL.
+💻 I am currently studying **Java Backend** at PDP Academy.
 
-🚀 I aim to create useful technological products in Uzbekistan, in particular, to develop games, scientific and cultural platforms in the Uzbek language.
+📚 I have just completed the course and gained experience working with:
+**Spring Framework**, **Spring Boot**, **Telegram Bots**, **REST API**, and **PostgreSQL**.
 
-💼 My projects:
-SerenitySuites – A Spring Boot-based hotel management system built for learning purposes, focusing on modern Java development practices and Spring Boot fundamentals.https://github.com/ulugbek33/SERENITY-SUITES
-EduSphere – EduSphere is a comprehensive monolithic Learning Management System (LMS) inspired by Google Classroom, Moodle, and Canvas. Built with enterprise-grade Java technologies, it focuses on robust business logic, multi-layered user roles, and efficient state management within a single, well-structured monolith. https://github.com/ulugbek33/EDU-SPHERE
-AeroBook – Flight Ticket Booking System .https://github.com/ulugbek33/AERO-BOOK
-DevFlow – DevFlow is a comprehensive project management system built with Spring Boot that enables teams to collaborate effectively on projects. It provides workspace management, project organization, task tracking, and team collaboration features. https://github.com/ulugbek33/DEV-FLOW
+🚀 My goal is to create useful technological products in Uzbekistan — especially
+to develop **games**, **scientific**, and **cultural platforms** in the Uzbek language.
 
-🛠 Technologies:
-Java, Spring, Spring Boot
-Docker , RabbitMQ
-PostgreSQL, MySql, MongoDB
-Telegram Bot , Telegram Webhook
-RESTful API, JSON
-Git, GitHub
+---
 
-📫 Connection:
-If you want to talk about a project or collaboration:
+## 💼 My Projects
 
-Telegram: @ulugbek_13_05
-Email: ulugbekmominov535@gmail.com
-Leetcode: https://leetcode.com/u/Ulugbek1305/
-Linkedln: https://www.linkedin.com/in/ulug-bek-mo-minov-719b77371/
+- **SerenitySuites** – A Spring Boot-based hotel management system built for learning purposes, focusing on modern Java development practices and Spring Boot fundamentals. [Repo](https://github.com/ulugbek33/SERENITY-SUITES)
+
+- **EduSphere** – A comprehensive monolithic Learning Management System (LMS) inspired by Google Classroom, Moodle, and Canvas. Built with enterprise-grade Java technologies, it focuses on robust business logic, multi-layered user roles, and efficient state management within a single, well-structured monolith. [Repo](https://github.com/ulugbek33/EDU-SPHERE)
+
+- **AeroBook** – Flight Ticket Booking System built with Spring Boot and PostgreSQL for practical backend learning. [Repo](https://github.com/ulugbek33/AERO-BOOK)
+
+- **DevFlow** – A project management system enabling teams to collaborate effectively, featuring workspace management, project organization, and task tracking. [Repo](https://github.com/ulugbek33/DEV-FLOW)
+
+---
+
+## 🛠 Technologies
+
+`Java` `Spring Boot` `Spring Framework`  
+`PostgreSQL` `MySQL` `MongoDB`  
+`Docker` `RabbitMQ`  
+`Telegram Bot API` `Telegram Webhook`  
+`RESTful API` `JSON`  
+`Git` `GitHub`
+
+---
+
+## 📫 Connection
+
+If you’d like to collaborate or discuss a project, feel free to reach out 👇  
+
+- **Telegram:** [@ulugbek_13_05](https://t.me/ulugbek_13_05)  
+- **Email:** [ulugbekmominov535@gmail.com](mailto:ulugbekmominov535@gmail.com)  
+- **LeetCode:** [Ulug'bek](https://leetcode.com/u/Ulugbek1305/)  
+- **LinkedIn:** [Ulug'bek](https://www.linkedin.com/in/ulug-bek-mo-minov-719b77371/)
+
+---
+
+⭐ *“Strive for progress, not perfection.”*
+
 
 <!--
 **ulugbek33/ulugbek33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
